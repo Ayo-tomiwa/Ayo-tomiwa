@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ayo-tomiwa.
-- 👀 I’m an aspiring software developer.
-- 🌱 Learnt Angular js
-- 🍁 good at web-design.
-- 🍀 with a frame-work of react
-- 🔰 uses python for back-end
-- currently learning Agile and devops
+👋 Hi, I’m @Ayo-tomiwa.
+👀 I’m an aspiring software developer with a passion for creating innovative solutions.
+🌱 I have a solid understanding of JavaScript and its applications.
+🍁 I excel in web design, focusing on user experience and aesthetics.
+🍀 I am proficient in React for building dynamic user interfaces.
+🔰 I use Python for back-end development, leveraging its versatility and power.
+🌟 I have experience in Agile methodologies and DevOps practices, enhancing my software development skills.
+💡 I evaluate various frameworks and programming languages to build complex solutions through critical thinking and problem-solving.
 
   
 
