@@ -4,5 +4,5 @@ A software developer with a solid foundation in Python, ReactJS, FastAPI, and fr
   
 
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,linux)](https://skillicons.dev)
 
