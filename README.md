@@ -1,6 +1,6 @@
-Here’s the updated version based on what you said:
+Hi, I’m Ayotomiwa.** I Build, I create, I Develop. **
 
-I’m @Ayo-tomiwa, a software developer with a solid foundation in Python, ReactJS, FastAPI, and front-end development. I have a strong understanding of JavaScript and excel in creating clean, user-focused web interfaces. I build dynamic user experiences with React and develop robust back-end services using Python and FastAPI. I continuously explore new technologies and frameworks, applying critical thinking and problem-solving to build effective and scalable solutions.
+A software developer with a solid foundation in Python, ReactJS, FastAPI, and front-end development. I have a strong understanding of JavaScript and excel in creating clean, user-focused web interfaces. I build dynamic user experiences with React and develop robust back-end services using Python and FastAPI. I continuously explore new technologies and frameworks, applying critical thinking and problem-solving to build effective and scalable solutions.
   
 
   
