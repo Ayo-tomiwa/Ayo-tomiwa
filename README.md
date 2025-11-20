@@ -1,12 +1,6 @@
---👋 Hi, I’m @Ayo-tomiwa.
---👀 I’m an aspiring software developer with a passion for creating innovative solutions.
---🌱 I have a solid understanding of JavaScript and its applications.
---🍁 I excel in web design, focusing on user experience and aesthetics.
---🍀 I am proficient in React for building dynamic user interfaces.
---🔰 I use Python for back-end development, leveraging its versatility and power.
---🌟 I have experience in Agile methodologies and DevOps practices, enhancing my software development skills.
---💡 I evaluate various frameworks and programming languages to build complex solutions through critical thinking and problem-solving.
+Here’s the updated version based on what you said:
 
+I’m @Ayo-tomiwa, a software developer with a solid foundation in Python, ReactJS, FastAPI, and front-end development. I have a strong understanding of JavaScript and excel in creating clean, user-focused web interfaces. I build dynamic user experiences with React and develop robust back-end services using Python and FastAPI. I continuously explore new technologies and frameworks, applying critical thinking and problem-solving to build effective and scalable solutions.
   
 
   
